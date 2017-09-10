@@ -1,0 +1,1 @@
+$ java -jar pnc.jar input_file
